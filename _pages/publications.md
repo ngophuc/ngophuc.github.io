@@ -5,12 +5,9 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+Here is a list of sites where you can find my publications:
+* [Research gate]{https://www.researchgate.net/profile/Phuc-Ngo-4}
+* [CV-HAL]{https://cv.hal.science/Phuc-Ngo}
+* Various other links are available in the left-hand side column
 
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+If you find a mistake or a typo in my publications, please, do not hesitate to let me know by sending me an e-mail.
