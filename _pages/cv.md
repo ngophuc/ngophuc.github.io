@@ -46,15 +46,15 @@ Work experience
 
 Publications
 ======
-  * [List of publications]{https://ngophuc.github.io/publications/}
+  * [List of publications](https://ngophuc.github.io/publications/)
   
 Talks
 ======
-  * [List of talks]{https://ngophuc.github.io/talks/}
+  * [List of talks](https://ngophuc.github.io/talks/)
 
 Teaching
 ======
-  * [List of teaching course]{https://ngophuc.github.io/teaching/}
+  * [List of teaching course](https://ngophuc.github.io/teaching/)
 
 Programming languages
 ======
