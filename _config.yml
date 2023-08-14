@@ -187,6 +187,12 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
+  projects:
+    output: true
+    permalink: /:collection/:path/
+  softwares:
+    output: true
+    permalink: /:collection/:path/
 
 
 # Defaults
@@ -242,6 +248,20 @@ defaults:
       type: talks
     values:
       layout: talk
+      author_profile: true
+      share: true
+  # _projects:
+      path: ""
+      type: projects
+    values:
+      layout: projet
+      author_profile: true
+      share: true
+  # _software:
+      path: ""
+      type: softwares
+    values:
+      layout: software
       author_profile: true
       share: true
 
