@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-Here is a list of sites where you can find my publications:
+Here is a list of sites where you can find and download my publications:
 * <a href="https://www.researchgate.net/profile/Phuc-Ngo-4">Research gate</a>
 * <a href="https://cv.hal.science/Phuc-Ngo">CV-HAL</a>
 * Various other links are available in the left-hand side column
