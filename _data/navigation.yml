@@ -8,9 +8,15 @@ main:
 
   - title: "Teaching"
     url: /teaching/    
+
+  - title: "Projects"
+    url: /project/
     
-  - title: "Portfolio"
-    url: /portfolio/
+  - title: "Software"
+    url: /software/  
+    
+ # - title: "Portfolio"
+ #   url: /portfolio/
         
  # - title: "Blog Posts"
  #   url: /year-archive/
