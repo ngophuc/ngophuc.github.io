@@ -10,7 +10,7 @@ redirect_from:
 
 Since Sep. 2014, I joined [Université de Lorraine](https://www.univ-lorraine.fr/) as an associate professor. More precisely, I do my teaching at Computer Science departement of the [Faculté des Sciences et Technology (FST)](https://fst.univ-lorraine.fr/) Nancy. Also, I am a member of [Adagio team](https://adagio.loria.fr/) of [LORIA](https://www.loria.fr).
 
-Previously, I was a postdoctoral researcher at Image, Processing and Tomography Lab of [CEA-Saclay](https://www.cea.fr/paris-saclay/Pages/Accueil.aspx), France. I was working on a project about volumic accelerated reconstruction algorithm in X-ray tomography for early osteoarthrisis diagnostic, low dose and low cost.
+Previously, I was a postdoctoral researcher at Image, Processing and Tomography Lab of [CEA-Saclay](https://www.cea.fr/paris-saclay/Pages/Accueil.aspx). I was working on a project about volumic accelerated reconstruction algorithm in X-ray tomography for early osteoarthrisis diagnostic, low dose and low cost.
 
 I received my PhD in Oct. 2013 from [Université Paris-Est Marne-la-Vallée (UPEMLV)](https://www.paris-est-sup.fr/), France. My thesis is entitled **Rigid transformations on 2D digital images: Combinatorial and topological analysis**, and was carried out in the A3SI team of the [Laboratoire d’Informatique Gaspard Monge (LIGM)](https://siteigm.univ-mlv.fr/) at [ESIEE-Paris Engineering](https://www.esiee.fr/) school, under the supervision of Prof. [Yukiko Kenmochi](https://kenmochi.users.greyc.fr) and [Hugues Talbot](https://hugues-talbot.github.io/) and [Nicolas Passat](http://crestic.univ-reims.fr/membre/1542-nicolas-passat).
 
