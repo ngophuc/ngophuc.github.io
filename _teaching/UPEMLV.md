@@ -4,6 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/UPEMLV
 venue: "Department Informatique"
+date: 2010
 location: "Marne-la-Vallée, France"
 ---
 
