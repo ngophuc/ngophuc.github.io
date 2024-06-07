@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/FST
 venue: "Université de Lorraine"
-date: since 2014
+date: 
 location: "Vandoeuvre-Lès-Nancy, France"
 ---
 

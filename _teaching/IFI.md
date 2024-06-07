@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/IFI
 venue: "Université Nationale du Vietnam, Hanoï (UNVH)"
-date: in 2015 and 2017
+date: 
 location: "Hanoi, Vietnam"
 ---
 
