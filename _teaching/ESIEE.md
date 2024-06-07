@@ -7,6 +7,9 @@ venue: "Université Gustave-Eiffel"
 location: "Noisy-le-Grand, France"
 ---
 
+Computer science courses
+======
+
 Operating system
 ======
 

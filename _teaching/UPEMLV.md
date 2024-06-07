@@ -7,6 +7,9 @@ venue: "Department Informatique"
 location: "Marne-la-Vallée, France"
 ---
 
+Computer science courses
+======
+
 Operating system
 ======
 

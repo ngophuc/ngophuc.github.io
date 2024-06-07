@@ -7,6 +7,9 @@ venue: "Université de Lorraine"
 location: "Vandoeuvre-Lès-Nancy, France"
 ---
 
+Computer science courses
+======
+
 Algorithmic and Programming
 ======
 
