@@ -4,17 +4,30 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/ESIEE
 venue: "Université Gustave-Eiffel"
-date: 
+date: 2011-2013
 location: "Noisy-le-Grand, France"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
+Operating system
 ======
 
-Heading 2
+* Student: BAC + 3
+* Language: C
+
+Graphs and algorithms
 ======
 
-Heading 3
+* Student: BAC + 3
+* Language: C
+
+Algorithms
 ======
+
+* Student: BAC + 3
+* Language: C
+
+Java Programming
+======
+
+* Student: BAC + 3
+* Language: Java

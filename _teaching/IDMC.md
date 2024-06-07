@@ -4,17 +4,18 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/IDMC
 venue: "Université de Lorraine"
-date: 
+date: 2024
 location: "Nancy, France"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
+Algorithmic and Programming
 ======
 
-Heading 2
+* Student: BAC + 1
+* Language: Java
+
+Information Systems Design
 ======
 
-Heading 3
-======
+* Student: BAC + 3
+* Language: UML

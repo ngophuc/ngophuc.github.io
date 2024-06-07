@@ -4,17 +4,12 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/IFI
 venue: "Université Nationale du Vietnam, Hanoï (UNVH)"
-date: 
+date: 2015, 2017
 location: "Hanoi, Vietnam"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
+Virtual and augmented reality
 ======
 
-Heading 2
-======
-
-Heading 3
-======
+* Student: Master 2
+* Language and tool: C/C++, OpenCV and OpenGL

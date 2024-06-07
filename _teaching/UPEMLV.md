@@ -4,17 +4,19 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/UPEMLV
 venue: "Department Informatique"
-date: 
+date: 2010-2011
 location: "Marne-la-Vallée, France"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
+Operating system
 ======
 
-Heading 2
+* Student: BAC + 1
+* Language: C
+
+Programming C
 ======
 
-Heading 3
-======
+* Student: BAC + 1 and BAC + 2
+* Language: C
+
