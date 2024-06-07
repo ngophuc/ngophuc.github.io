@@ -3,7 +3,7 @@ title: "Université de Marne-La-Vallée (UPEMLV)"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/UPEMLV
-venue: "Department Informatique"
+venue: "Computer Science Department"
 date: 2010
 location: "Marne-la-Vallée, France"
 ---
