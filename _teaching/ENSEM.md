@@ -4,7 +4,6 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/ENSEM
 venue: "Université de Lorraine"
-date: 
 location: "Vandoeuvre-Lès-Nancy, France"
 ---
 

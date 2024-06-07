@@ -4,7 +4,6 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/IDMC
 venue: "Université de Lorraine"
-date: 
 location: "Nancy, France"
 ---
 

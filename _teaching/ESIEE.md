@@ -4,7 +4,6 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/ESIEE
 venue: "Université Gustave-Eiffel"
-date:
 location: "Noisy-le-Grand, France"
 ---
 
